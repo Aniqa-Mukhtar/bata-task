@@ -89,3 +89,7 @@ button:hover {
     color: black;
     cursor: zoom-in;
 }
+
+#hint {
+    background-color: tomato;
+}
